@@ -4,7 +4,6 @@
 A project that help the people to rent items on this website. This web application is not complete yet (1/1/2021), so stay tuned. Thanks !!!! PROJECT CODE IS IN THE MASTER BRANCH !!!.
 
 
-![](RackMultipart20210101-4-1qmn3ln_html_36405a03f556db5d.png)
 
 **INTERNATIONAL ISLAMIC UNIVERSITY MALAYSIA**
 
